@@ -1,0 +1,1 @@
+"# adhaar-qrscanner" 
